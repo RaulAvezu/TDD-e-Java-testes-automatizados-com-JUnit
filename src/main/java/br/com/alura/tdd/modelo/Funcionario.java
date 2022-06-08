@@ -27,5 +27,6 @@ public class Funcionario {
 		return salario;
 	}
 	//Teste de commit - 07-06
+	//Testado
 
 }
