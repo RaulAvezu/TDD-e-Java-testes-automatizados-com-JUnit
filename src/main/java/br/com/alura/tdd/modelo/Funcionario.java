@@ -26,5 +26,6 @@ public class Funcionario {
 	public BigDecimal getSalario() {
 		return salario;
 	}
+	//Teste de commit - 07-06
 
 }
